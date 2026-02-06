@@ -1,7 +1,7 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS booking_system;
+CREATE DATABASE IF NOT EXISTS node_booking;
 
-USE booking_system;
+USE node_booking;
 
 -- Create services table
 CREATE TABLE IF NOT EXISTS services (
